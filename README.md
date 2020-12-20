@@ -27,10 +27,13 @@ Here is a brief summary of the improvements in this version:
 
 A static image of the completed page can be found at the link below
 ```md
-![alt text](assets/images/screenshot.png)
+![alt text](Develop/assets/images/screenshot.png)
 ```
 
 # Link to deployed application
+https://geotecdev.github.io/Horiseon-Landing-Page/
+
+# Link to the github repository
 https://geotecdev.github.io/Horiseon-Landing-Page/
 
 # Credits
